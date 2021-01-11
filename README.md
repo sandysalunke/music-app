@@ -48,7 +48,7 @@ Some screens of the application is given below for better understanding.
 </p>
 
 <p> 2. Search songs <br/> 
- <img src="screenshots/desktop 6.png" width="590px" title="initial screen"/>
+ <img src="screenshots/desktop 6.PNG" width="590px" title="Search Songs"/>
 </p>
  
  <p> 3. After loading the songs <br/> 
