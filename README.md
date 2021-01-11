@@ -43,29 +43,27 @@ is used.
 
 Some screens of the application is given below for better understanding. 
 
-Desktop as well as Mobile version of the screenshots are given side by side.
-
-<p> Initial screen <br/> 
+<p> 1. Initial screen <br/> 
  <img src="screenshots/desktop 1.png" width="590px" title="initial screen"/>
 </p>
 
-<p> Search songs <br/> 
+<p> 2. Search songs <br/> 
  <img src="screenshots/desktop 6.png" width="590px" title="initial screen"/>
 </p>
  
- <p> After loading the songs <br/> 
+ <p> 3. After loading the songs <br/> 
  <img src="screenshots/desktop 2.png" width="590px" title="After loading the songs screen"/>
 </p>
 
-<p> Playlist <br/> 
+<p> 4. Playlist <br/> 
  <img src="screenshots/desktop 3.png" width="590px" title="Top 5 Songs screen"/>
 </p>
 
-<p> Songs in playlist <br/> 
+<p> 5. Songs in playlist <br/> 
  <img src="screenshots/desktop 4.png" width="590px" title="Showing information of a song screen"/>
 </p>
 
-<p> Add songs in playlist <br/> 
+<p> 6. Add songs in playlist <br/> 
  <img src="screenshots/desktop 5.png" width="590px" title="Searching and showing searched songs screen"/>
 </p>
 
